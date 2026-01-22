@@ -1,0 +1,9 @@
+
+#tornando arquivo executavel
+chmod +x calculadora.sh
+
+#permissões proprietário (rwx) outros (r)
+chmod 744 calculadora.sh
+
+#script executado
+python3 calculadora.sh
